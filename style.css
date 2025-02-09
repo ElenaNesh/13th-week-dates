@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+.bday-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1rem;
+    margin: 1rem;
+}
+
+#bday {
+    border: 1px solid green;
+}
+
+#alert {
+    color: red;
+    font-weight: bold;
+}
+
+button {
+    background-color: green;
+    border: 1px solid darkgreen;
+}
